@@ -1,0 +1,40 @@
+Del A
+
+1)
+Ambisjon: Lære, Godt samarbeide, ryddig/ forståelig program, bruk av GIT
+
+Prøve seg fram med GIT
+
+Ikke dele opp oppgavene, gjøre sammen slik at alle lærer
+
+
+2)
+Jobbe sammen, jobber når vi har tid til overs pga matte eksamen. Prøve å få gjort 70% innen uke 2
+
+Bruker GitHub, så bruker første dagen sammen til å sette opp prosjekt å sørge for at alle kan GIT
+
+
+3)
+Vi velger å bruke løsning til William. Siden vi jobber sammen og
+ikke deler opp vil det kunne potensielt ta lengre tid, men alle lærer
+
+Git kan være lurt å kunne i framtiden
+
+
+Del F
+
+1)
+Når vi jobbet, fikk vi til et godt samarbeid. Jobbet med screenshare og jobbet
+sammen om nesten all kode for å lære sammen og forstå alt.
+
+De dagene vi satt av til jobbing ble veldig effektive, og vi fikk gjort mye.
+
+2)
+Neste gang ville vi kanskje prøvd å møtes for planlegging og for jobbing,
+noe problemer her pga stengte skoler. Burde kanskje vært litt flinkere til å
+sette opp en god plan, men dette ble litt trøblete denne gangen.
+
+3)
+Vi har brukt Git og lært å bruke dette programmet. Vi har også lært godt
+hvordan en skal samarbeide om en kode, være flinke til å kommunisere om at
+siste/ endrede filer er pushet etc.
